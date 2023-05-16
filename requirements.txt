@@ -1,0 +1,8 @@
+pandas
+jupyter
+transformers==4.28.0
+torch
+torchvision==0.15.2
+datasets
+evaluate
+matplotlib
